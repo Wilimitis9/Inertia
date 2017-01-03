@@ -18,7 +18,10 @@ To build, ensure the Django packages below are installed (virtual env are accept
   - Butterknife: http://jakewharton.github.io/butterknife/
   - Realm: https://realm.io/
     - Realm Recycler View: https://github.com/thorbenprimke/realm-recyclerview
-  - RxJava: https://github.com/ReactiveX/RxJava
+  - RxJava: https://github.com/ReactiveX/RxJava  
+
+*Design Patterns*
+- MVP: https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter  
 
 *Testing*
 - Postman: https://www.getpostman.com/docs/
