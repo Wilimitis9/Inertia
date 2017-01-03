@@ -8,7 +8,7 @@ To build, ensure the Django packages below are installed (virtual env are accept
 Back-end
 - Django: https://www.djangoproject.com/
   - Django REST Framework: http://www.django-rest-framework.org/
-  - Django OAuth Toolkit: https://django-oauth-toolkit.readthedocs.io/en/latest/
+  - Django OAuth Toolkit: https://django-oauth-toolkit.readthedocs.io/en/latest/  
 Front-end
 - Android: https://developer.android.com/guide/index.html
   - Dagger2: https://google.github.io/dagger/
