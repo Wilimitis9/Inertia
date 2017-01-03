@@ -19,3 +19,7 @@ To build, ensure the Django packages below are installed (virtual env are accept
   - Realm: https://realm.io/
     - Realm Recycler View: https://github.com/thorbenprimke/realm-recyclerview
   - RxJava: https://github.com/ReactiveX/RxJava
+
+*Testing*
+- Postman: https://www.getpostman.com/docs/
+- Sqliteman: http://sqliteman.yarpen.cz/
